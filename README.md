@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Jean, a senior full-stack web developer from France 🇫🇷
+
+I'm a full-stack web developer working @ Ornikar who likes to build useless side projects and discover new tech along the way.
+
+Let's build some cool stuff together! 💻✨
+
+---
+
+- [Check out my website](https://jeanrobertou.com/)
+- [Or my LinkedIn](https://www.linkedin.com/in/robertoujean/)
+
 
 <!--
 **jean1591/jean1591** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
