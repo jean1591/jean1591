@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jean, a senior full-stack web developer from France 🇫🇷
 
-I'm a full-stack web developer working @ Ornikar who likes to build useless side projects and discover new tech along the way.
+I'm a full-stack web developer building fun side projects and discover new tech along the way.
 
 Let's build some cool stuff together! 💻✨
 
